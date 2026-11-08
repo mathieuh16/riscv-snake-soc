@@ -8,7 +8,7 @@ Single-cycle **RISC-V processor in Verilog**, verified with directed tests and a
 - `sim/`: testbenches (instruction test)
 - `sw/`: `crt0.s`, C program, `convert.py`
 
-**Random regression** (requires Icarus Verilog and Python 3):
+## Random regression (requires Icarus Verilog and Python 3):
 
     python rand_test.py
 
