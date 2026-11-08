@@ -5,9 +5,8 @@ Single-cycle **RISC-V processor in Verilog**, verified with directed tests and a
 ## Contents
 
 - `rtl/`: CPU (ALU, register file, control unit, immediate generator, PC, ROM, RAM, top)
-- `tb/`: testbenches (instruction test, Snake system test)
+- `sim/`: testbenches (instruction test)
 - `sw/`: `crt0.s`, C program, `convert.py`
-- `scripts/rand_test.py`: Python random generator, reference model and coverage
 
 ## Build and run
 
