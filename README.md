@@ -1,6 +1,6 @@
 # RISC-V CPU and Verification Flow in Verilog
 
-Single-cycle **RISC-V processor in Verilog**, verified with directed tests and a **constrained-random, coverage-driven** flow.
+Single-cycle **RISC-V processor in Verilog**, verified with a **constrained-random, coverage-driven** flow.
 
 ## Contents
 
